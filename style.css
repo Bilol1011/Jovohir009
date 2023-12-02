@@ -1,0 +1,18 @@
+ul li a{
+    color: black;
+}
+header {
+    background-image: url('./img/photo_2023-10-14_10-38-32.jpg');
+}
+.immg1{
+    border-radius: 20%;
+    background-color: pink;
+}
+.immg2{
+    border-radius: 20%;
+    background-color: darkslateblue;
+}
+.immg3{
+    border-radius: 20%;
+    background-color: darkorchid;
+}
